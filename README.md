@@ -1,6 +1,8 @@
 # value-utils
 Utility functions used for value type checking, existence, and comparison.
 
+[![npm version](https://badge.fury.io/js/value-utils.svg)](https://badge.fury.io/js/value-utils)
+
 ## Functions
 
 ```typescript
