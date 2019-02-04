@@ -1,7 +1,7 @@
 {
   "name": "value-utils",
   "version": "0.1.0",
-  "description": "",
+  "description": "Utility functions used for value type checking, existence, and comparison.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
